@@ -7,4 +7,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### ``json-server questions.json``
 
-then use `### npm start`
+then use `npm start`
